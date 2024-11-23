@@ -1,0 +1,162 @@
+[
+    {
+        "iat":0,
+        "time of arrival":0,
+        "service time":2,
+        "time service begins":0,
+        "time Service Ends":2,
+        "time customer waites in queue":0
+    },
+    {
+        "iat":8,
+        "time of arrival":8,
+        "service time":4,
+        "time service begins":8,
+        "time Service Ends":12,
+        "time customer waites in queue":0
+    },
+    {
+        "iat":2,
+        "time of arrival":10,
+        "service time":4,
+        "time service begins":12,
+        "time Service Ends":16,
+        "time customer waites in queue":2
+    },
+    {
+        "iat":5,
+        "time of arrival":15,
+        "service time":3,
+        "time service begins":16,
+        "time Service Ends":19,
+        "time customer waites in queue":1
+    },
+    {
+        "iat":2,
+        "time of arrival":17,
+        "service time":6,
+        "time service begins":19,
+        "time Service Ends":25,
+        "time customer waites in queue":2
+    },
+    {
+        "iat":7,
+        "time of arrival":24,
+        "service time":3,
+        "time service begins":25,
+        "time Service Ends":28,
+        "time customer waites in queue":1
+    },
+    {
+        "iat":5,
+        "time of arrival":29,
+        "service time":5,
+        "time service begins":29,
+        "time Service Ends":34,
+        "time customer waites in queue":0
+    },
+    {
+        "iat":8,
+        "time of arrival":37,
+        "service time":4,
+        "time service begins":37,
+        "time Service Ends":41,
+        "time customer waites in queue":0
+    },
+    {
+        "iat":4,
+        "time of arrival":41,
+        "service time":1,
+        "time service begins":41,
+        "time Service Ends":42,
+        "time customer waites in queue":0
+    },
+    {
+        "iat":2,
+        "time of arrival":43,
+        "service time":3,
+        "time service begins":43,
+        "time Service Ends":46,
+        "time customer waites in queue":0
+    },
+    {
+        "iat":1,
+        "time of arrival":44,
+        "service time":5,
+        "time service begins":46,
+        "time Service Ends":51,
+        "time customer waites in queue":2
+    },
+    {
+        "iat":4,
+        "time of arrival":48,
+        "service time":4,
+        "time service begins":51,
+        "time Service Ends":55,
+        "time customer waites in queue":3
+    },
+    {
+        "iat":3,
+        "time of arrival":51,
+        "service time":4,
+        "time service begins":55,
+        "time Service Ends":59,
+        "time customer waites in queue":4
+    },
+    {
+        "iat":2,
+        "time of arrival":53,
+        "service time":3,
+        "time service begins":59,
+        "time Service Ends":62,
+        "time customer waites in queue":6
+    },
+    {
+        "iat":4,
+        "time of arrival":57,
+        "service time":4,
+        "time service begins":62,
+        "time Service Ends":66,
+        "time customer waites in queue":5
+    },
+    {
+        "iat":5,
+        "time of arrival":62,
+        "service time":4,
+        "time service begins":66,
+        "time Service Ends":70,
+        "time customer waites in queue":4
+    },
+    {
+        "iat":6,
+        "time of arrival":68,
+        "service time":3,
+        "time service begins":70,
+        "time Service Ends":73,
+        "time customer waites in queue":2
+    },
+    {
+        "iat":1,
+        "time of arrival":69,
+        "service time":4,
+        "time service begins":73,
+        "time Service Ends":77,
+        "time customer waites in queue":4
+    },
+    {
+        "iat":8,
+        "time of arrival":77,
+        "service time":3,
+        "time service begins":77,
+        "time Service Ends":80,
+        "time customer waites in queue":0
+    },
+    {
+        "iat":3,
+        "time of arrival":80,
+        "service time":6,
+        "time service begins":80,
+        "time Service Ends":86,
+        "time customer waites in queue":0
+    }
+]
